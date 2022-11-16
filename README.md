@@ -4,6 +4,8 @@ This repository contains supplementary material for experiments with layer-wise 
 
 Preprint has been published, see: <https://arxiv.org/abs/2210.09958>
 
+Final version can be found In Proceedings of the 3rd International Conference on Machine Learning Techniques (MLTEC 2022), Zurich, Switzerland, vol. 12, no. 20, pp. 115-130 (2022).
+
 ## Technical Environment
 
 Python code has been developed using Docker containter with JupyterLab environment, Tensorflow and several extensions, based on jupyter/tensorflow-notebook.
